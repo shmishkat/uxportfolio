@@ -1,0 +1,2 @@
+[contex.production.environment]
+HUGO_VERSION = "0.91.0"
