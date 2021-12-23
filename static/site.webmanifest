@@ -1,7 +1,7 @@
 {
-    "name": "DoIt Theme Documentation",
-    "short_name": "DoIt Docs",
-    "description": "The documentation site for Hugo DoIt Theme",
+    "name": "Sarowar Hossain's Portfolio",
+    "short_name": "Sarowar Hossain",
+    "description": "Sarowar Hossain's Portfolio",
     "start_url": "/",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
@@ -24,5 +24,6 @@
             "type": "image/png",
             "purpose": "any maskable"
         }
-    ]
+    ],
+    
 }
