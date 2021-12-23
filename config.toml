@@ -309,11 +309,11 @@ enableEmoji = true
       # URL of the LOGO
       logo = ""
       # title name
-      name = "Sarowar Hossain"
+      name = "  "
       # you can add extra information before the name (HTML format is supported), such as icons
-      # pre = "<i class='far fa-edit fa-fw'></i>"
+      # pre = "<i class=\"far fa-sticky-note\"></i>"
       # you can add extra information after the name (HTML format is supported), such as icons
-      post = ""
+      post = "<i class=\"far fa-sticky-note\"></i>"
       # whether to use typeit animation for title name
       typeit = false
 
