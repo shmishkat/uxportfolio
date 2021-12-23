@@ -605,7 +605,7 @@ enableEmoji = true
       images = []
       # Publisher info
       [params.page.seo.publisher]
-        name = "xxxx"
+        name = "Sarowar Hossain"
         logoUrl = "/images/avatar.webp"
         # gravatarEmail = "mishu.sarowar@gmail.com"
 
