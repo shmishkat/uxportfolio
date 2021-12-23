@@ -114,13 +114,13 @@ enableEmoji = true
         
     [languages.en.params]
       # site description
-      description = "The official documentation for the Hugo DoIt theme"
+      description = "Sarowar Hossain's Portfolio"
       # site keywords
-      keywords = ["Theme", "Hugo"]
+      keywords = ["Portfolio", "Personal Site"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "DoIt"
+        title = "Sarowar Hossain"
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
@@ -169,9 +169,9 @@ enableEmoji = true
         [languages.en.params.home.profile]
           enable = true
           # Gravatar Email for preferred avatar in home page
-          gravatarEmail = "mishu.sarowar@gmail.com"
+          # gravatarEmail = "mishu.sarowar@gmail.com"
           # URL of avatar shown in home page
-          # avatarURL = "/images/avatar.webp"
+          avatarURL = "/images/avatar.webp"
           # title shown in home page (HTML format is supported)
           title = "Sarowar Hossain"
           # subtitle shown in home page
@@ -290,8 +290,8 @@ enableEmoji = true
   # date format
   dateFormat = "Jan 2, 2006"
   # website images for Open Graph and Twitter Cards
-  # images = ["/images/avatar.webp"]
-  gravatarEmail = "mishu.sarowar@gmail.com"
+  images = ["/images/avatar.webp"]
+  # gravatarEmail = "mishu.sarowar@gmail.com"
   # enable PWA
   enablePWA = true
   # license information
@@ -607,7 +607,7 @@ enableEmoji = true
       [params.page.seo.publisher]
         name = "xxxx"
         logoUrl = "/images/avatar.webp"
-        gravatarEmail = "mishu.sarowar@gmail.com"
+        # gravatarEmail = "mishu.sarowar@gmail.com"
 
   # Sponsor config
   [params.sponsor]
@@ -735,8 +735,8 @@ enableEmoji = true
   name = " "
   email = "hello@sarowarhossain.com"
   link = " "
-  # avatar = "/images/avatar.webp"
-  gravatarEmail = "mishu.sarowar@gmail.com"
+  avatar = "/images/avatar.webp"
+  # gravatarEmail = "mishu.sarowar@gmail.com"
 
 # Sitemap config
 [sitemap]
