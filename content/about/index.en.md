@@ -9,8 +9,6 @@ math:
   enable: true
 ---
 
-Hello! :wave:
-
 This is Mishkat, graduated from the Department of CSE at BRAC Universtiy, [User Experience and Interface Designer](https://www.behance.net/shmishkat "Behance | shmishkat"), a Coder, and a [Chess](https://lichess.org/@/sh-mishkat "Lichess | sh-mishkat") lover. \
 Here on this site I write about the things I care, showcase my projects and update my Résumé.
 

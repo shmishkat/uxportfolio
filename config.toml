@@ -175,7 +175,7 @@ enableEmoji = true
           # title shown in home page (HTML format is supported)
           title = "Sarowar Hossain"
           # subtitle shown in home page
-          subtitle = "Hello! I am a User Experience and Interface designer, working with a startup Durjoy DSS, and local clients, converting their ideas into technologically feasible digital products with human-centered design. I'm also helping aspiring UX designers on two EdTech learning platforms as an instructor."
+          subtitle = "Hello!👋 I am a User Experience and Interface designer, working with a startup Durjoy DSS, and local clients, converting their ideas into technologically feasible digital products with human-centered design. I'm also helping aspiring UX designers on two EdTech learning platforms as an instructor."
           # whether to use typeit animation for subtitle
           typeit = false
           # whether to show social links
