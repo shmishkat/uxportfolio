@@ -9,5 +9,4 @@ draft: false
 
 \
 \
-\
 *More case studies are coming soon..*
