@@ -133,7 +133,7 @@ enableEmoji = true
       [languages.en.params.search]
         enable = true
         # type of search engine ("lunr", "algolia", "fuse")
-        type = "algolia"
+        type = "fuse"
         # max index length of the chunked content
         contentLength = 4000
         # placeholder of the search bar
@@ -148,8 +148,8 @@ enableEmoji = true
         absoluteURL = false
         [languages.en.params.search.algolia]
           index = "en_index"
-          appID = "5YGRNRQK1G"
-          searchKey = "0ff6874805de24b84aa1d5ebccad56cd"
+          appID = ""
+          searchKey = ""
         [languages.en.params.search.fuse]
           # https://fusejs.io/api/options.html
           isCaseSensitive = false
@@ -340,7 +340,7 @@ enableEmoji = true
     # special amount of posts in each section page
     paginate = 20
     # date format (month and day)
-    dateFormat = "01-02"
+    dateFormat = "Jan 2, 2006"
     # amount of RSS pages
     rss = 10
     # recently updated posts settings
@@ -355,7 +355,7 @@ enableEmoji = true
     # special amount of posts in each list page
     paginate = 20
     # date format (month and day)
-    dateFormat = "01-02"
+    dateFormat = "Jan 2, 2006"
     # amount of RSS pages
     rss = 10
 
