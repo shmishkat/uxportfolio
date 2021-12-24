@@ -7,7 +7,7 @@ description: "Vagabon Rider Intro"
 categories: [Hobbies]
 tags: ["Hobbies"]
 hiddenFromHomePage: true
-hiddenFromSearch: true
+hiddenFromSearch: false
 ---
 
 This home quarantine has gifted me with a new hobby. In the past few days, I tried to learn video editing and basic VFX and eventually made a video from the clips that I recorded last year. I have a plan to make moto vlogs, travel videos and motorcycle-related videos hence opened a youtube channel!</br>

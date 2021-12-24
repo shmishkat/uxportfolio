@@ -19,7 +19,7 @@ tags: [
 ]
 lightgallery: true
 hiddenFromHomePage: true
-hiddenFromSearch: true
+hiddenFromSearch: false
 ---
 
 I was contemplating a project like a media server, torrent seedbox, or simply backup files via P2P(i. e. Resilio Sync) using a Raspberry Pi 4. Then I realized I have an 11-12 y/o desktop PC in my room that I can use for the project. Well, this PC will draw way more electricity than a Raspberry Pi would but I wanted to test it then I’ll consider building such a system. 

@@ -7,7 +7,7 @@ description: "1st Inter-University Team Battle Final"
 categories: [Chess]
 tags: ["Chess"]
 hiddenFromHomePage: true
-hiddenFromSearch: true
+hiddenFromSearch: false
 ---
 {{< image src="./1stInterUniversityFinal.webp" caption="1st Inter-University Champions" height="1400px" width="846.46px">}}
 
