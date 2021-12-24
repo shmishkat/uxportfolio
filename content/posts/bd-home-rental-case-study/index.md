@@ -4,7 +4,7 @@ title: "BD Home Rental Case Study"
 date: 2021-01-10T21:29:01+08:00
 lastmod: 2021-01-10T21:29:01+08:00
 draft: false
-description: "Discover what the Hugo - DoIt theme is all about and the core-concepts behind it."
+description: " "
 featuredImage: "feature-image.webp"
 
 tags: ["Case Study", "UX"]

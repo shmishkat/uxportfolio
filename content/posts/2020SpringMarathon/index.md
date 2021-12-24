@@ -31,7 +31,7 @@ Lichess অনলাইন দাবা সার্ভার ম্যারা
 গেম লিঙ্কঃ [GM Gata Kamsky vs Sarowar Hossain](https://lichess.org/d4ASymo6)<br/>
 
 <div align="center">
-        <iframe width=900 height=556.5 src="https://lichess.org/study/embed/shfCFZq0/6MI0qroG" frameborder=0></iframe>
+        <iframe width=600 height=371 src="https://lichess.org/study/embed/shfCFZq0/6MI0qroG" frameborder=0></iframe>
 </div>
 
 গ্র্যান্ড মাস্টারের সাথে জিততে না পারলেও একজন ক্যান্ডিডেট মাস্টারের সাথে ঠিকই জিততে সক্ষম হয়েছি ! 
@@ -41,7 +41,7 @@ Sarowar Hossain vs CM WildTricks (lichess handle)<br/>
 
 <div align="center">
     <iframe src="https://lichess.org/embed/WMPDfJ0q?theme=auto&bg=auto"
-    width=900 height=556.5 frameborder=0></iframe><br/>
+    width=600 height=371 frameborder=0></iframe><br/>
 </div>
 
 আরেকটি উল্লেখযোগ্য গেম হচ্ছে ইতালিয়ান ন্যাশনাল মাস্টার Luca Albertini-এর সাথে । যেখানে আমার একদম জিতা পজিশন ছিল, ক্যাল্কুলেট না করতে পেরে হাতে মাত্র ৩৫ সেকেন্ড ছিল বিধায় ড্র নিয়ে নেই ।<br/>
@@ -49,19 +49,19 @@ Sarowar Hossain vs CM WildTricks (lichess handle)<br/>
 NM Luca Albertini vs Sarowar Hossain
 <div align="center">
     <iframe src="https://lichess.org/embed/4WkkJwpl#2?theme=auto&bg=auto"
-    width=900 height=556.5 frameborder=0></iframe>
+    width=600 height=371 frameborder=0></iframe>
 </div>
 আরও দুইটি উল্লেখ্য যজ্ঞ গেইম আছে, যেখানে দুজন ২৫০০ এবং ২৪০০ রেটিং প্লেয়ারের সাথে জয় লাভ করতে সক্ষম হই ।<br/>
 গেম দুটি যথাক্রমে,<br/>
 
 <div align="center">
     <iframe src="https://lichess.org/embed/7lWV8jqv?theme=auto&bg=auto"
-    width=900 height=556.5 frameborder=0></iframe><br/>
+    width=600 height=371 frameborder=0></iframe><br/>
 </div>
 
 <div align="center">
     <iframe src="https://lichess.org/embed/7lWV8jqv?theme=auto&bg=auto"
-    width=900 height=556.5 frameborder=0></iframe><br/>
+    width=600 height=371 frameborder=0></iframe><br/>
 </div>
 <br/>
 আমার কৌশল মূলত এটাই ছিল যে, যেখানে আমার রেটিং টুর্নামেন্টের গড় রেটিং এর চেয়ে কম সেখানে আমি জিতার চেয়ে অনেক বেশি হারবো । হয়েছেও তাই, মাত্র ২৭% গেম জিতেছি! এমনও হয়েছে টানা ১০টির বেশি গেম হেরেছি , কিন্তু থেমে যাই নি । ১৮-১৯ ঘণ্টা খেলার পরে দেখি শীর্ষ ৫০০ এর ভিতরে ঢুকছি বের হচ্ছি । ভাবলাম সকাল ৬ তা পর্যন্ত খেললে অর্থাৎ ২৪ ঘণ্টা খেললে হয়তো শীর্ষ ৫০০ এর ভিতরে থাকতে পারবো । কিন্তু ক্লান্তির কারণে পেরে উঠছিলাম না । সাধারণত মস্তিষ্ক শরীরের প্রায় ২০%  শক্তি ব্যবহার করে, তবে সেদিন আমার পুরোটাই মস্তিষ্ক ব্যবহার করেছিল বলে আমি নিশ্চিত। বিছানায় পিঠ ঠেকাতেই ঘুমিয়ে পড়লাম, ঘুম ভাঙল ৩ ঘণ্টা পর সকাল ৪:৩০-এর দিকে । সাথে সাথে উঠে টুর্নামেন্ট পেজে এসে দেখি র‍্যাঙ্ক ১০০০ এর বাইরে চলে গেছে । তখন চিন্তা করলাম ১ ঘণ্টা কিছু গেইম খেলে যদি অন্তত শীর্ষ ১০০০ এর ভিতরে থাকতে পারি । আবার খেলা শুরু করলাম, জিততে আর পারছিলাম না, একের পর এক হেরেই যাচ্ছিলাম, কারণ টুর্নামেন্টে অংশগ্রহণকারী খেলোয়াড়ের সংখ্যা তখন ২২,০০০ ছাড়িয়ে! তারপরেও কিছু গেইম জিতে শীর্ষ ১,০০০ এর ভিতরে আসতে সক্ষম হয় ।টুর্নামেন্টের শেষে ২৭২টি গেম খেলে আমার অবস্থান ছিল ২২,৪৯৭ খেলোয়াড়দের মাঝে ৯৮৭ আমার আশেপাশে আমার চেয়ে কম রেটেড দাবাড়ু আর দেখি নি । তার মানে বলা যায় আমার কৌশল কিছুটা হলে কাজে লেগেছিল ।<br/>
