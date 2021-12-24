@@ -8,7 +8,7 @@ description: "Discover what the Hugo - DoIt theme is all about and the core-conc
 featuredImage: "feature-image.webp"
 
 tags: ["Case Study", "UX"]
-categories: ["Case Study"]
+categories: [UX Case Study]
 lightgallery: true
 toc:
   auto: false

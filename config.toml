@@ -78,11 +78,11 @@ enableEmoji = true
         #weight = 5
         
       [[languages.en.menu.main]]
-        identifier = "Case Studies"
+        identifier = "UX Case Studies"
         pre = ""
         post = ""
-        name = "Case Studies"
-        url = "/CaseStudies/"
+        name = "UX Case Studies"
+        url = "/casestudies/"
         title = ""
         weight = 1
         
