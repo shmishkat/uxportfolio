@@ -7,7 +7,7 @@ description: "1st Inter-University  Group B Team Battle"
 categories: [Chess]
 tags: ["Chess"]
 hiddenFromHomePage: true
-hiddenFromSearch: true
+hiddenFromSearch: false
 ---
 
 BRAC University Chess Club have annihilated the field at the 1st Inter University Chess Group B Team Battle!!<br/>

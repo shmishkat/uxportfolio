@@ -10,6 +10,7 @@ featuredImage: "feature-image.webp"
 tags: ["Case Study", "UX"]
 categories: [UX Case Study]
 lightgallery: true
+hiddenFromSearch: false
 toc:
   auto: false
 ---
