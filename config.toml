@@ -293,9 +293,9 @@ enableEmoji = true
   images = ["/images/avatar.webp"]
   # gravatarEmail = "mishu.sarowar@gmail.com"
   # enable PWA
-  enablePWA = true
+  enablePWA = false
   # license information
-  license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+  # license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
   # Header config
   [params.header]
     # desktop header mode ("fixed", "normal", "auto")
@@ -333,7 +333,7 @@ enableEmoji = true
     # ICP info only in China (HTML format is supported)
     icp = ""
     # license info (HTML format is supported)
-    license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+    # license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
   # Section (all posts) page config
   [params.section]
