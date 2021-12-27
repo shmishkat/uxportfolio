@@ -181,7 +181,7 @@ enableEmoji = true
           # whether to show social links
           social = true
           # disclaimer (HTML format is supported)
-          disclaimer = "Download my <a href=\"https://drive.google.com/drive/folders/12LQs9SiGekEakf3uhEvrHTjTq7bY7dkI?usp=sharing\"><b>Résumé</b>!</a>"
+          disclaimer = "Download my <a href=\"https://drive.google.com/drive/folders/12LQs9SiGekEakf3uhEvrHTjTq7bY7dkI?usp=sharing\"><b>Résumé</b></a> and <a href=\"https://drive.google.com/drive/folders/1SkYa9wfaJGlghJ6RIzh8w7zzXYJI4Z87?usp=sharing\"><b>Curriculum Vitae</b>!</a>"
         # Home page posts
         [languages.en.params.home.posts]
           enable = true
